@@ -8,7 +8,7 @@
     "build": "vite build",
     "serve": "vite preview --port 3000"
   },
-  "author": "Esteban Fuster Pozzi <estebanrfp@gmail.com>",
+  "author": "Normal Human <normalhuman@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "eslint": "^8.47.0",
